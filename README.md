@@ -1,10 +1,14 @@
 # 🚁 Urban FPV Drone Simulator
 
+[![中文](https://img.shields.io/badge/语言-中文-blue)](README_CN.md)
+
 An immersive **First-Person View (FPV) drone flight simulator** built entirely with **Three.js** in a single HTML file. Fly through a procedurally generated cityscape with real-time HUD, collision detection, and multiple camera modes.
 
 ![Urban FPV Drone Simulator](https://img.shields.io/badge/status-active-success)
 ![Three.js](https://img.shields.io/badge/Three.js-r160-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+![Demo Screenshot](demo.png)
 
 ---
 

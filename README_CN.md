@@ -1,10 +1,14 @@
 # 🚁 城市 FPV 无人机模拟器
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+
 一款沉浸式的 **第一人称视角 (FPV) 无人机飞行模拟器**，完全基于 **Three.js** 构建，所有代码整合在单个 HTML 文件中。在程序化生成的城市景观中自由飞行，配备实时 HUD、碰撞检测和多种视角模式。
 
 ![状态](https://img.shields.io/badge/status-active-success)
 ![Three.js](https://img.shields.io/badge/Three.js-r160-blue)
 ![许可证](https://img.shields.io/badge/license-MIT-green)
+
+![演示截图](demo.png)
 
 ---
 
